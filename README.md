@@ -5,6 +5,8 @@ A basic todo list application built with HTML, CSS, and JavaScript. This project
 
 * Add new todo items
 * Delete todo items
+# demo 
+see now https://amar-webdev.github.io/Todo-app/
 # How to Use
 
 1. Clone the repository or download the project files.
